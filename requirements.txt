@@ -1,6 +1,6 @@
-pandas
-numpy
-scikit-learn
-joblib
-flask
-matplotlib
+ pandas
+   numpy
+   scikit-learn==1.6.1
+   joblib
+   flask
+   matplotlib
