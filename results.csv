@@ -1,4 +1,0 @@
-model,accuracy,precision_weighted,recall_weighted,f1_weighted,attack_precision,attack_recall,attack_f1
-AdaBoost,97.55,97.7,97.55,97.6,91.12,93.35,92.22
-GradientBoosting,99.54,99.55,99.54,99.54,98.4,98.09,98.24
-LDA,95.92,96.77,95.92,96.11,84.01,96.0,89.61
